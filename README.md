@@ -13,7 +13,7 @@ This repository hosts the official PyTorch implementation of "Encoder-Only Image
 
 **[Encoder-Only Image Registration](https://arxiv.org/abs/2509.00451)** <br>
 [Xiang Chen](https://grzy.hnu.edu.cn/site/index/chenxiang), Renjiu Hu, Min Liu, Yuxi Zhang, Yaonan Wang and [Hang Zhang](https://tinymilky.com). <br>
-arXiv 2024.
+IEEE Transactions on Circuits and Systems for Video Technology, 2026.
 
 
 ## Highlights
@@ -78,8 +78,8 @@ If our work has influenced or contributed to your research, please kindly acknow
 @article{chen2024encoder,
   title={Encoder-Only Image Registration},
   author={Chen, Xiang and Hu, Renjiu, and Liu, Min and Zhang, Yuxi and Wang Yaonan and Zhang, Hang},
-  journal={},
-  year={2024},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
   publisher={IEEE}
 }
 
